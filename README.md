@@ -116,3 +116,5 @@ const apiSecret = '...';
   process.exit(0);
 })();
 ```
+
+Forked from https://github.com/SleepWalker/zenmoney-api
